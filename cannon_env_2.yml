@@ -1,0 +1,12 @@
+name: cannon
+channels:
+  - defaults
+dependencies:
+  - python=3.9.13
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - astropy
+  - scipy
+prefix: /Users/z5059656/opt/anaconda3/envs/cannon
